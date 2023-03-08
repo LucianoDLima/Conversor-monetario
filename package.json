@@ -2,7 +2,7 @@
   "name": "convert",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "https://{your_github_username}.github.io/{app-name}",
+  "homepage" : "https://https://github.com/LucianoDLima/.github.io/Conversor-monetario",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
